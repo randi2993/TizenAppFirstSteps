@@ -14,7 +14,7 @@
 
 ## Projects structure
 
-+ [TestPlatform7](https://github.com/randi2993/TizenAppFirstSteps/tree/master/TVDemoSimonSaysDemo/TestPlatform7): Show a list of multiple options, can be used with the remote control nav keys
++ [TestPlatform7](https://github.com/randi2993/TizenAppFirstSteps/tree/main/TestPlatform7): Show a list of multiple options, can be used with the remote control nav keys
   - Create At: 2023-07-28
   - Update At: 2023-07-28
   
