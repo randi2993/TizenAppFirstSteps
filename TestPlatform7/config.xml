@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://yourdomain/TestPlatform7" version="1.0.0" viewmodes="fullscreen">
+    <tizen:application id="of2NNL1lpu.TestPlatform7" package="of2NNL1lpu" required_version="2.1"/>
+    <author href="https://randi2993.github.io" email="randi2993@gmail.com">Randi Ortiz</author>
+    <content src="index.html"/>
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920"/>
+    <icon src="favicon.jpg"/>
+    <tizen:metadata key="http://tizen.org/metadata/app_ui_type/base_screen_resolution" value="extensive"/>
+    <name>TestPlatform7</name>
+    <tizen:privilege name="http://developer.samsung.com/privilege/allshare"/>
+    <tizen:privilege name="http://developer.samsung.com/privilege/productinfo"/>
+    <tizen:privilege name="http://tizen.org/privilege/internet"/>
+    <tizen:privilege name="http://tizen.org/api/application"/>
+    <tizen:privilege name="http://tizen.org/api/application.read"/>
+    <tizen:privilege name="http://tizen.org/api/application.launch"/>
+    <tizen:privilege name="http://tizen.org/api/application.kill"/>
+    <tizen:privilege name="http://tizen.org/api/setting"/>
+    <tizen:privilege name="http://tizen.org/api/system"/>
+    <tizen:privilege name="http://tizen.org/api/systemmanager"/>
+    
+    <tizen:profile name="tv-samsung"/>
+    <tizen:setting screen-orientation="landscape" context-menu="enable" background-support="disable" encryption="disable" install-location="auto" hwkey-event="enable"/>
+</widget>
